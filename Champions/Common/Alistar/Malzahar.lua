@@ -2,5 +2,4 @@ LoadGOSScript(Base64Decode("3u432qV/SmKzvEU0sFibECaCispVLncwsRhum7fLDdEmU8ciVGoq
 
 
 
-
 PrintChat(string.format("<font color=\"#FC5743\"><b>Thanks for donating, it is really appreciated</b></font>"))
